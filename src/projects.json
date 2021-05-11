@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Workout Tracker",
+        "deployed_link": "https://powerful-shelf-71931.herokuapp.com/", 
+        "github_link": "https://github.com/rnick1/Workout_Tracker.git",
+        "image": "Images/workoutTracker.PNG"
+    },
+    {
+        "id": 2,
+        "title": "COVID Germ Pod",
+        "deployed_link": "https://hidden-island-12801.herokuapp.com/", 
+        "github_link": "https://github.com/rnick1/Group_6.git",
+        "image": "Images/homePage.png"
+    },
+    {
+        "id": 3,
+        "title": "E-commerce Backend",
+        "deployed_link": "https://drive.google.com/file/d/1QiPNO--w2WMdKFeNEo7CGLnZtqqv752W/view?usp=sharing", 
+        "github_link": "https://github.com/rnick1/E-Commerce_Back_End.git",
+        "image": "Images/eCommerceBackend.PNG"
+    },
+    {
+        "id": 4,
+        "title": "README Generator",
+        "deployed_link": "https://drive.google.com/file/d/1mt0YEzNsy8PFVDld8D4I4S377u2f-rLw/view?usp=sharing", 
+        "github_link": "https://github.com/rnick1/README_Generator.git",
+        "image": "Images/readmeGenerator.PNG"
+    },
+    {
+        "id": 5,
+        "title": "Meal Planner",
+        "deployed_link": "https://rsowald.github.io/MealPlanner/", 
+        "github_link": "https://github.com/rnick1/MealPlanner.git",
+        "image": "Images/Meal-Planner.png"
+    },
+    {
+        "id": 6,
+        "title": "Password Generator",
+        "deployed_link": "https://rnick1.github.io/Nick-s_Password_Generator/", 
+        "github_link": "https://github.com/rnick1/Nick-s_Password_Generator.git",
+        "image": "Images/passwordGenerator.PNG"
+    }
+]
