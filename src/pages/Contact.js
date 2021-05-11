@@ -13,7 +13,7 @@ function Contact() {
                 <section class="card-body text-center">
                   <h2 class="card-title mb-1">Contact Me</h2>
                   <p>
-                    <img src="Images/Contact-Photo.jpg" class="contact-img img-thumbnail rounded mx-auto d-block mb-3" alt="Nick"></img>
+                    <img src="public/Images/Contact-Photo.jpg" class="contact-img img-thumbnail rounded mx-auto d-block mb-3" alt="Nick"></img>
                     <a href="https://linkedin.com/in/nicholas-rider1" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">LinkedIn</a>
                     <a href="https://github.com/rnick1" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">GitHub</a>
                     <a href="mailto:rnick0260@gmail.com" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">Email</a>
