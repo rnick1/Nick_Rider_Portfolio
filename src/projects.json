@@ -4,7 +4,7 @@
         "title": "Workout Tracker",
         "deployed_link": "https://powerful-shelf-71931.herokuapp.com/", 
         "github_link": "https://github.com/rnick1/Workout_Tracker.git",
-        "image": "Images/workoutTracker.PNG"
+        "image": "public/images/workoutTracker.PNG"
     },
     {
         "id": 2,
