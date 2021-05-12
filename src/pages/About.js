@@ -1,5 +1,6 @@
 import React from "react";
 import { Row } from 'react-bootstrap';
+import aboutPage from '../images/aboutPage.JPG';
 
 function About() {
     return (
@@ -11,7 +12,7 @@ function About() {
                 <section className="card-body">
                   <h2 className="card-title text-center mb-4">About Me</h2>
                   <p>
-                    <img src='public/images/aboutPage.JPG' className="index-img img-thumbnail float-left mr-2 mb-1" alt="Nick Rider"></img>
+                    <img src={aboutPage} className="index-img img-thumbnail float-left mr-2 mb-1" alt="Nick Rider"></img>
                     My name is Nick Rider. I am passionate about history, aviation, the outdoors, and management. In a work setting, my core strengths 
                     are the ability to organize and systemize. I enjoy bringing stability and predictability to the foundational parts of a business 
                     so that company leadership can have freedom to pursue their vision for the company. I am a published author and have ten years' 
