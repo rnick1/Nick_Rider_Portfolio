@@ -1,10 +1,11 @@
 import React from "react";
 import { Row } from 'react-bootstrap';
 import aboutPage from '../images/aboutPage.JPG';
+import background3 from '../images/background3.JPG'
 
 function About() {
     return (
-        <Row style={{marginTop: "25px"}}>
+        <Row style={{backgroundImage: `url(${background3})`}}>
         <div className="col-xs-1 col-md-1 col-lg-2"></div>
         <div className="col-xs-10 col-md-7 col-lg-6">
           <div className="card-index mb-5">

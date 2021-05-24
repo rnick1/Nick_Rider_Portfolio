@@ -7,13 +7,15 @@ import eCommerceBackend from "../images/eCommerceBackend.PNG"
 import readmeGenerator from "../images/readmeGenerator.PNG"
 import mealPlanner from "../images/mealPlanner.PNG"
 import passwordGenerator from "../images/passwordGenerator.PNG"
+import background4 from '../images/background4.JPG'
 
 function Portfolio() {
   return (
+    <div style={{backgroundImage: `url(${background4})`}}>
     <div className="container mt-2 mb-2">
     <div className="row">
       <div className="col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
-      <div className="col-xs-10 col-sm-9 col-md-8 col-lg-7">
+      <div style={{backgroundColor: 'transparent'}} className="col-xs-10 col-sm-9 col-md-8 col-lg-7">
         <h2 className="text-center"><b>Portfolio</b></h2>
         <div className="row row-cols-1 row-cols-lg-2">
         <Project
@@ -70,7 +72,7 @@ function Portfolio() {
       </div>
     </div>
   </div>
-
+  </div>
   )
 }
 

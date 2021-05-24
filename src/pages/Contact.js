@@ -1,15 +1,17 @@
 import React from "react";
 import contactPage from '../images/contactPage.JPG';
+import background4 from '../images/background4.JPG';
 
-
+// backgroundColor: 'transparent'
 function Contact() {
     return (
+      <div style={{backgroundImage: `url(${background4})`}}>
         <div class="container">
         <div class="row-A"></div>
         <br/>
         <div class="row-A">
           <div class="col-xs-1 col-md-1 col-lg-1"></div>
-          <div class="col-xs-10 col-md-7 col-lg-6">
+          <div style={{backgroundColor: 'transparent'}} class="col-xs-10 col-md-7 col-lg-6">
             <div class="card-contact">
               <div class="row no-gutters">
                 <section class="card-body text-center">
@@ -30,6 +32,7 @@ function Contact() {
           <div class="col-xs-1 col-md-4 col-lg-5"></div>
         </div>
         <div class="row-tall"></div>
+      </div>
       </div>
     )
 }
