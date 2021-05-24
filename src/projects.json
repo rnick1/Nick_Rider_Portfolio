@@ -4,41 +4,53 @@
         "title": "Workout Tracker",
         "deployed_link": "https://powerful-shelf-71931.herokuapp.com/", 
         "github_link": "https://github.com/rnick1/Workout_Tracker.git",
-        "image": "src/images/workoutTracker.PNG"
+        "image": "src/images/workoutTracker.PNG",
+        "concept": "The workout tracker is an app designed to help people track their workout progress as they build healthy habits.",
+        "technologies": "JavaScript, Express.js, and MongoDB"
     },
     {
         "id": 2,
         "title": "COVID Germ Pod",
         "deployed_link": "https://hidden-island-12801.herokuapp.com/", 
         "github_link": "https://github.com/rnick1/Group_6.git",
-        "image": "Images/homePage.png"
+        "image": "Images/homePage.png",
+        "concept": "Social distancing tool that let's users organize groups that follow similar pandemic precautions.",
+        "technologies": "JavaScript, Express.js, and Handlebars"
     },
     {
         "id": 3,
         "title": "E-commerce Backend",
         "deployed_link": "https://drive.google.com/file/d/1QiPNO--w2WMdKFeNEo7CGLnZtqqv752W/view?usp=sharing", 
         "github_link": "https://github.com/rnick1/E-Commerce_Back_End.git",
-        "image": "Images/eCommerceBackend.PNG"
+        "image": "Images/eCommerceBackend.PNG",
+        "concept": "This project is designed to replicate on a small scale the operation of the back-end of an e-commerce site.",
+        "technologies": "JavaScript, MySQL, Insomnia, MySQL Workbench"
     },
     {
         "id": 4,
         "title": "README Generator",
         "deployed_link": "https://drive.google.com/file/d/1mt0YEzNsy8PFVDld8D4I4S377u2f-rLw/view?usp=sharing", 
         "github_link": "https://github.com/rnick1/README_Generator.git",
-        "image": "Images/readmeGenerator.PNG"
+        "image": "Images/readmeGenerator.PNG",
+        "concept": "The README_Generator is designed to enable busy web developers to create a professional project readme by simply answering a series of questions.",
+        "technologies": "JavaScript, Node.js"
     },
     {
         "id": 5,
         "title": "Meal Planner",
         "deployed_link": "https://rsowald.github.io/MealPlanner/", 
         "github_link": "https://github.com/rnick1/MealPlanner.git",
-        "image": "Images/Meal-Planner.png"
+        "image": "Images/Meal-Planner.png",
+        "concept": "Meal Planner enables you to search for recipe ideas by meal name and save your recipe links to a built-in weekly calender.",
+        "technologies": "MealDB API, CocktailDB API, HTML, CSS, Materialize, Javascript, Jquery, JSON, AJAX, Luxon Library"
     },
     {
         "id": 6,
         "title": "Password Generator",
         "deployed_link": "https://rnick1.github.io/Nick-s_Password_Generator/", 
         "github_link": "https://github.com/rnick1/Nick-s_Password_Generator.git",
-        "image": "Images/passwordGenerator.PNG"
+        "image": "Images/passwordGenerator.PNG",
+        "concept": "Users of my Password Generator app can have the app create completely random passwords based off criteria set by the user.",
+        "technologies": "HTML, CSS, JavaScript"
     }
 ]

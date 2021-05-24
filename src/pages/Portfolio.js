@@ -21,36 +21,48 @@ function Portfolio() {
           deployed_link={projects[0].deployed_link}
           github_link={projects[0].github_link}
           image={workoutTracker}
+          concept={projects[0].concept}
+          technologies={projects[0].technologies}
         />
         <Project
           title={projects[1].title}
           deployed_link={projects[1].deployed_link}
           github_link={projects[1].github_link}
           image={germPod}
+          concept={projects[1].concept}
+          technologies={projects[1].technologies}
         />
         <Project
           title={projects[2].title}
           deployed_link={projects[2].deployed_link}
           github_link={projects[2].github_link}
           image={eCommerceBackend}
+          concept={projects[2].concept}
+          technologies={projects[2].technologies}
         />
         <Project
           title={projects[3].title}
           deployed_link={projects[3].deployed_link}
           github_link={projects[3].github_link}
           image={readmeGenerator}
+          concept={projects[3].concept}
+          technologies={projects[3].technologies}
         />
-                <Project
+        <Project
           title={projects[4].title}
           deployed_link={projects[4].deployed_link}
           github_link={projects[4].github_link}
           image={mealPlanner}
+          concept={projects[4].concept}
+          technologies={projects[4].technologies}
         />
         <Project
           title={projects[5].title}
           deployed_link={projects[5].deployed_link}
           github_link={projects[5].github_link}
           image={passwordGenerator}
+          concept={projects[5].concept}
+          technologies={projects[5].technologies}
         />
         <div className="col mb-4">
         </div>
