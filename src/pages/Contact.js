@@ -23,7 +23,7 @@ function Contact() {
                     <a href="mailto:rnick0260@gmail.com" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">Email</a>
                   </p>
                   <p>
-                    <a href="https://drive.google.com/file/d/1tyGCUnPoNFaiVeZVRQFcrHhCkGjwrleA/view?usp=sharing" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">Resume</a>
+                    <a href="https://drive.google.com/file/d/1UCLD1yxTbRwNwG6732JTQJhwNvI21fa3/view?usp=sharing" class="btn btn-dark" target="_blank" rel="noreferrer" id="button">Resume</a>
                   </p>
                 </section>
               </div>
